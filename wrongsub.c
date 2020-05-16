@@ -4,7 +4,7 @@ if the last digit of the number is non-zero, she decreases the number by one;
 if the last digit of the number is zero, she divides the number by 10 (i.e. removes the last digit).
 You are given an integer number n. Tanya will subtract one from it k times. Your task is to print the result after all k subtractions.
 
-t is guaranteed that the result will be positive integer number.
+It is guaranteed that the result will be positive integer number.
 
 Input
 The first line of the input contains two integer numbers n and k (2≤n≤109, 1≤k≤50) — the number from which Tanya will subtract and the number of subtractions correspondingly.
